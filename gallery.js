@@ -22,6 +22,7 @@ function upDate(previewPic){
        */
        let x = document.querySelector("div");
        x.style.backgroundImage = "url('')";
-       x.innerHTML = "Hover over an image below to display here.";
+       x.innerHTML = "Hover over an image below to display here."; //here i want to make the sentence in a variable
            
+
        }
